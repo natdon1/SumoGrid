@@ -11,4 +11,8 @@
 <verbose value="false"/>
 <no-step-log value="true"/>
 </report>
+<output>
+    <tripinfo-output value="trip_info.xml"/>
+    <!-- <fcd-output value="fcd.xml"/> -->
+</output>
 </configuration>
